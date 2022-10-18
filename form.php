@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
@@ -13,7 +13,7 @@
         <div>
             <div>
                 <label for="prénom">Prénom :</label>
-                <input type="text" id="prénom" name="user_firstname" required>
+                <input type="text" id="prénom" name="user_firstname">
             </div>
             <label for="nom">Nom :</label>
             <input type="text" id="nom" name="user_name" required>
